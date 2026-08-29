@@ -1,0 +1,8 @@
+﻿flowchart LR
+    A[Authorized Windows endpoint] --> B[Configuration collection]
+    B --> C[Normalization]
+    C --> D[Control evaluation]
+    D --> E{Finding status}
+    E -->|Pass| F[Evidence]
+    E -->|Warning or fail| G[Recommendation]
+    G --> H[Human review]

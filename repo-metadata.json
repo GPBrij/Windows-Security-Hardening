@@ -1,0 +1,7 @@
+{
+    "name":"Windows-Security-Hardening",
+    "description":"Enterprise PowerShell security hardening and compliance automation toolkit.",
+    "topics":"PowerShell,Security,Hardening,Governance,Compliance",
+    "language":"PowerShell",
+    "owner":"Patrick Brijraj"
+}
