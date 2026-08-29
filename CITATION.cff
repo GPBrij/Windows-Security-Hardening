@@ -1,4 +1,4 @@
-﻿cff-version: 1.2.0
+cff-version: 1.2.0
 title: "Windows Security Hardening"
 message: "If you reference this portfolio repository, please cite it using this metadata."
 type: software
@@ -6,4 +6,4 @@ authors:
   - family-names: "Brijraj"
     given-names: "Patrick"
 license: MIT
-repository-code: "ADD_PUBLIC_REPOSITORY_URL_AFTER_PUBLICATION"
+repository-code: "https://github.com/GPBrij/Windows-Security-Hardening"
