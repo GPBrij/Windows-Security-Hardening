@@ -117,6 +117,39 @@ COPY / MODIFY / DEPLOY / COMMERCIALISE?
       +-- NO  -> remain within evaluation permission
       `-- YES -> prior written permission -> commercial licence
 ```
+## Ownership and Licensing
+
+Copyright (c) 2026 Patrick Brijraj. All rights reserved.
+
+This repository is publicly visible for portfolio evaluation, personal
+learning, recruitment review, academic discussion, and non-commercial
+
+open-source licence**.
+
+Copying, modification, redistribution, production deployment, organisational
+use, incorporation into another security solution, consulting use, and any
+other commercial use require prior written permission. Any use that generates
+revenue, supports a paid service, reduces commercial costs, or creates another
+financial benefit requires a separate written commercial licence.
+
+The toolkit is intended only for lawful defensive assessment on Windows
+systems the user is authorised to assess. See [`LICENSE`](LICENSE) for the
+full terms. For permission or commercial licensing enquiries, contact
+`pbrijraj@goalpostbrij.co.za`.
+
+```text
+PUBLIC VIEWING
+      |
+      +-- portfolio review
+      +-- personal learning
+      `-- non-commercial evaluation
+      |
+      v
+COPY / MODIFY / DEPLOY / COMMERCIALISE?
+      |
+      +-- NO  -> remain within evaluation permission
+      `-- YES -> prior written permission -> commercial licence
+```
 
 ## Documentation map
 
