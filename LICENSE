@@ -1,21 +1,100 @@
-﻿MIT License
+PROPRIETARY SOURCE-AVAILABLE LICENCE
 
 Copyright (c) 2026 Patrick Brijraj
+All Rights Reserved
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+IMPORTANT: This is not an open-source licence. The Software is publicly
+visible only for the limited evaluation purposes stated below.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. DEFINITIONS
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+"Owner" means Patrick Brijraj.
+
+"Software" means the PowerShell source code, scripts, modules, documentation,
+security assessment logic, control mappings, governance frameworks, evidence
+models, diagrams, tests, examples, reports, supporting files, and associated
+materials contained in this repository, excluding separately identified
+third-party materials.
+
+"Commercial Use" means use that directly or indirectly generates revenue,
+supports a paid product or service, enables consulting or professional
+services, reduces commercial costs, provides organisational benefit, is used
+in production, or is incorporated into an internal or external commercial
+solution.
+
+2. OWNERSHIP
+
+The Owner retains all right, title, and interest in the Software, subject to
+rights in separately identified third-party materials. Public access to the
+repository does not transfer ownership or grant rights by implication.
+
+3. LIMITED EVALUATION PERMISSION
+
+Permission is granted to access and review the Software solely for personal
+learning, portfolio assessment, academic discussion, recruitment evaluation,
+and non-commercial technical evaluation on systems the evaluator is authorised
+to assess.
+
+4. RESTRICTED ACTIVITIES
+
+Without the Owner's prior written permission, no person or organisation may:
+
+(a) copy or reproduce the Software, except for temporary copies reasonably
+    necessary to view the repository;
+(b) modify, adapt, translate, merge, or create derivative works;
+(c) distribute, publish, sublicense, sell, lease, host, or transfer the
+    Software;
+(d) deploy the Software in a production, operational, consulting,
+    organisational, or commercial environment;
+(e) integrate the Software into another product, platform, service,
+    framework, proposal, demonstration, security offering, or deliverable;
+(f) use the Software for Commercial Use; or
+(g) remove or alter copyright, ownership, attribution, or licence notices.
+
+5. AUTHORISED AND DEFENSIVE USE
+
+The Software is intended only for lawful defensive security assessment,
+control verification, system-integrity review, governance, and educational
+evaluation on systems for which the user has explicit authorisation. This
+licence does not authorise access to or assessment of third-party systems.
+
+6. COMMERCIAL LICENSING
+
+Commercial Use requires a separate written commercial licence agreed with the
+Owner before use begins. Commercial terms may include licence fees,
+subscriptions, royalties, revenue participation, implementation fees, support
+fees, maintenance fees, or another mutually agreed form of compensation.
+
+7. CONTRIBUTIONS
+
+No issue, suggestion, pull request, code contribution, documentation change,
+or other submission transfers ownership of the Software or grants commercial
+rights. The Owner may require a separate Contributor Licence Agreement before
+accepting a contribution.
+
+8. THIRD-PARTY MATERIALS
+
+Third-party libraries, frameworks, tools, trademarks, and other materials
+remain subject to their respective licences and ownership terms. This licence
+does not restrict rights independently granted under a third-party licence.
+
+9. NO IMPLIED RIGHTS
+
+No rights are granted by implication, estoppel, access, disclosure, public
+availability, or otherwise. All rights not expressly granted are reserved.
+
+10. NO WARRANTY AND LIMITATION OF LIABILITY
+
+THE SOFTWARE IS PROVIDED FOR EVALUATION ON AN "AS IS" BASIS, WITHOUT WARRANTY
+OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, SECURITY, OR
+FITNESS FOR PRODUCTION USE.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE OWNER SHALL NOT BE
+LIABLE FOR ANY CLAIM, LOSS, DAMAGE, OR OTHER LIABILITY ARISING FROM THE
+SOFTWARE OR ITS USE.
+
+11. PERMISSION AND COMMERCIAL ENQUIRIES
+
+Patrick Brijraj
+pbrijraj@goalpostbrij.co.za

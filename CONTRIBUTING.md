@@ -1,20 +1,13 @@
-﻿# Contributing
+# Contributing
 
-## PowerShell quality standard
+This is a proprietary, source-available portfolio project. External
+contributions are not accepted automatically.
 
-- Use approved PowerShell verbs.
-- Add comment-based help.
-- Validate all parameters.
-- Prefer structured objects over formatted console-only output.
-- Add `SupportsShouldProcess` for scripts that change state.
-- Keep assessment separate from remediation.
-- Add Pester tests for rules and decision logic.
-- Use synthetic values in examples and test data.
+Before submitting code, security checks, control mappings, documentation, or
+pull requests, contact `pbrijraj@goalpostbrij.co.za`. A separate Contributor
+Licence Agreement may be required. A submission does not transfer ownership
+of the project and does not grant commercial-use rights.
 
-## Pull-request checklist
-
-- [ ] Syntax validation passes
-- [ ] No sensitive information is present
-- [ ] README and catalog are updated
-- [ ] Risk and privilege requirements are documented
-- [ ] Example output is sanitized
+Do not submit credentials, personal information, client material, proprietary
+security standards, exploit data, confidential configurations, or content the
+contributor does not have the right to provide.
